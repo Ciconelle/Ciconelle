@@ -5,11 +5,11 @@ I currently work with SIP switch support. I have knowledge in asterisk and freep
 I'm learning python and for that I'm creating a personal project called Athens. In order to facilitate my work in the company where I currently work.
 
 
-- 📫 How to reach me:
-https://twitter.com/LucasCiconelle
-https://www.facebook.com/lucas.ciconelle
-https://www.instagram.com/lucasciconelle/
-https://www.linkedin.com/in/lucas-ciconelle-941170104/
+----- 📫 How to reach me:
+- https://twitter.com/LucasCiconelle
+- https://www.facebook.com/lucas.ciconelle
+- https://www.instagram.com/lucasciconelle/
+- https://www.linkedin.com/in/lucas-ciconelle-941170104/
 
 I LOVE YOU <3 
 
